@@ -1,0 +1,12 @@
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 1 practica parcial\ejercicio 1 practica parcial\obj\Debug\ejercicio 1 practica parcial.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 1 practica parcial\ejercicio 1 practica parcial\bin\Debug\ejercicio 1 practica parcial.exe.config
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 1 practica parcial\ejercicio 1 practica parcial\bin\Debug\ejercicio 1 practica parcial.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 1 practica parcial\ejercicio 1 practica parcial\bin\Debug\ejercicio 1 practica parcial.pdb
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 1 practica parcial\ejercicio 1 practica parcial\obj\Debug\ejercicio 1 practica parcial.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 1 practica parcial\ejercicio 1 practica parcial\obj\Debug\ejercicio 1 practica parcial.pdb
+C:\Users\Almnos\Desktop\Algoritmos2023-main\ejercicio 1 practica parcial\ejercicio 1 practica parcial\obj\Debug\ejercicio 1 practica parcial.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Desktop\Algoritmos2023-main\ejercicio 1 practica parcial\ejercicio 1 practica parcial\obj\Debug\ejercicio 1 practica parcial.exe
+C:\Users\Almnos\Desktop\Algoritmos2023-main\ejercicio 1 practica parcial\ejercicio 1 practica parcial\bin\Debug\ejercicio 1 practica parcial.exe.config
+C:\Users\Almnos\Desktop\Algoritmos2023-main\ejercicio 1 practica parcial\ejercicio 1 practica parcial\bin\Debug\ejercicio 1 practica parcial.exe
+C:\Users\Almnos\Desktop\Algoritmos2023-main\ejercicio 1 practica parcial\ejercicio 1 practica parcial\bin\Debug\ejercicio 1 practica parcial.pdb
+C:\Users\Almnos\Desktop\Algoritmos2023-main\ejercicio 1 practica parcial\ejercicio 1 practica parcial\obj\Debug\ejercicio 1 practica parcial.pdb
