@@ -1,0 +1,6 @@
+C:\Users\Santy\Documents\SharpDevelop Projects\Practica Operacion y busqueda\Practica opybusq\obj\Debug\Practica opybusq.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Documents\SharpDevelop Projects\Practica Operacion y busqueda\Practica opybusq\bin\Debug\Practica opybusq.exe.config
+C:\Users\Santy\Documents\SharpDevelop Projects\Practica Operacion y busqueda\Practica opybusq\bin\Debug\Practica opybusq.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\Practica Operacion y busqueda\Practica opybusq\bin\Debug\Practica opybusq.pdb
+C:\Users\Santy\Documents\SharpDevelop Projects\Practica Operacion y busqueda\Practica opybusq\obj\Debug\Practica opybusq.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\Practica Operacion y busqueda\Practica opybusq\obj\Debug\Practica opybusq.pdb

@@ -1,0 +1,6 @@
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 2 practica parcial\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 2 practica parcial\Program\bin\Debug\Program.exe.config
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 2 practica parcial\Program\bin\Debug\Program.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 2 practica parcial\Program\bin\Debug\Program.pdb
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 2 practica parcial\Program\obj\Debug\Program.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\ejercicio 2 practica parcial\Program\obj\Debug\Program.pdb
