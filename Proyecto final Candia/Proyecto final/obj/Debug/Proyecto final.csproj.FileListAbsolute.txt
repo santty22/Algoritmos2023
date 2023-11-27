@@ -1,0 +1,24 @@
+C:\Users\Marcos\Documents\SharpDevelop Projects\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\SharpDevelop Projects\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\Marcos\Documents\SharpDevelop Projects\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\Marcos\Documents\SharpDevelop Projects\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\Marcos\Documents\SharpDevelop Projects\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\Marcos\Documents\SharpDevelop Projects\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Almnos\Desktop\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\Almnos\Desktop\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\Almnos\Desktop\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\Almnos\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\Almnos\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\Marcos\Desktop\Proyecto final 2\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Proyecto final 2\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\santi\OneDrive\Escritorio\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\Marcos\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\Santy\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\Santy\Desktop\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\Santy\Desktop\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\Santy\Desktop\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\Santy\Desktop\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
