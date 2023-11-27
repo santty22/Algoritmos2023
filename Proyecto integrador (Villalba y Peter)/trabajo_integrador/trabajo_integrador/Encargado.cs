@@ -1,0 +1,35 @@
+﻿using System;
+
+namespace trabajo_integrador
+{
+	public class Encargado : Empleado
+	{
+		// Datos Miembro.
+		private int plusSueldo;
+		
+		// Constructores.
+		public Encargado(string nombre, string dni, string puesto, string legajo, int sueldo, int plusSueldo) : base(nombre,dni,puesto,legajo,sueldo)
+		{
+			this.plusSueldo = plusSueldo;
+			
+		}
+		public Encargado(string nombre, string dni, string legajo, int sueldo, bool esEncargado, int plusSueldo) : base(nombre,dni,legajo,sueldo,esEncargado)
+		{
+			this.plusSueldo = plusSueldo;
+		}
+		
+		// Propiedades.
+		public int PlusSueldo
+		{
+			set {plusSueldo = value;}
+			get {return plusSueldo;}
+		}
+		
+		// Metodos
+		public void AgregarPlus(Encargado encargado)
+		{
+			Sueldo = Sueldo + PlusSueldo;
+		}
+		
+	}
+}
